@@ -86,7 +86,7 @@
 
 📸 更多截图
     <div align="center">
-        <img src="./assets/images/location_pin.gif" width="45%" alt="扫描动画">
+        <img src="./assets/images/location.gif" width="45%" alt="扫描动画">
     </div>
 
 📝 使用建议
