@@ -83,15 +83,15 @@ public void onDataReceived(String data) {
 📸 更多截图  
 | 登录界面 | 连接界面 | 主界面 | 收发数据界面 | loading |
 |----------|----------|--------|--------------|---------|
-| ![登录截图](./app/src/main/assets/images/login.png) 
+| ![登录界面](./app/src/main/assets/images/login.png) 
 
-| ![连接截图](./app/src/main/assets/images/connect.jpg) 
+| ![连接界面](./app/src/main/assets/images/connect.jpg) 
 
-| ![主界面截图](./app/src/main/assets/images/main.png) 
+| ![主界面](./app/src/main/assets/images/main.png) 
 
-| ![收发数据截图](./app/src/main/assets/images/received.png) 
+| ![收发数据界面](./app/src/main/assets/images/received.png) 
 
-| ![loading截图](./app/src/main/assets/images/location.gif) 
+| ![loading](./app/src/main/assets/images/location.gif) 
 
 ---
 
