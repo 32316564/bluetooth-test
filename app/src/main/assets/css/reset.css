@@ -1,0 +1,27 @@
+html,body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing:border-box;
+    background-color:#F3F3F3;
+}
+p{
+    padding: 0;
+    margin: 0;
+}
+body .layer_green_class .layui-layer-content{
+    font-size: 1.5em;
+    background-color: #F6FFED;
+    border: 1px solid #B7EB8F;
+}
+body .layer_orange_class .layui-layer-content{
+    font-size: 1.5em;
+    background-color: #fbf6da;
+    border: 1px solid #f8bf05;
+}
+body .layer_red_class .layui-layer-content{
+    font-size: 1.5em;
+    background-color: #FFf2f0;
+    border: 1px solid #FFCCC7;
+}
