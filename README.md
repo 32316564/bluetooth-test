@@ -1,13 +1,6 @@
 📱 应用简介
     一款支持经典蓝牙和低功耗蓝牙(BLE)双模连接的测试工具，提供完整的蓝牙设备管理、数据收发和GNSS数据解析功能。
 
-    <div align="center">
-        <img src="./assets/images/login.png" width="30%" alt="登录界面">
-        <img src="./assets/images/main.png" width="30%" alt="主界面">
-        <img src="./assets/images/connect.jpg" width="30%" alt="连接界面">
-        <img src="./assets/images/received.png" width="30%" alt="收发数据界面">
-    </div>
-
 🛠️ 项目结构
     com.example.bluetooth-test/
     ├── bluetooth/              # 蓝牙核心模块
@@ -85,9 +78,11 @@
         app:lottie_loop="true"/>
 
 📸 更多截图
-    <div align="center">
-        <img src="./assets/images/location.gif" width="45%" alt="扫描动画">
-    </div>
+    ![image](./app/src/main/assets/images/location.gif)
+    ![image](./app/src/main/assets/images/login.png)
+    ![image](./app/src/main/assets/images/main.png)
+    ![image](./app/src/main/assets/images/connect.jpg)
+    ![image](./app/src/main/assets/images/received.jpg)
 
 📝 使用建议
     测试前确保设备蓝牙已开启
